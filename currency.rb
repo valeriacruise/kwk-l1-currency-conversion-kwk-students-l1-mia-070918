@@ -1,4 +1,4 @@
-usd_to_euro(money)
+def usd_to_euro(money)
   eur= (money*0.85605).round
 end
 
